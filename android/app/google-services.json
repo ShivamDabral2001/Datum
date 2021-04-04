@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "361232763666",
+    "project_id": "datum-3106d",
+    "storage_bucket": "datum-3106d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361232763666:android:4933a792d9d6843fe4c1cb",
+        "android_client_info": {
+          "package_name": "com.shivamdabral.datum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361232763666-3amtqjhp1d0f5r4p70uffitusc83epsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG6oQL3f8juzXh1h-DxeeXBBGSL-epP7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361232763666-3amtqjhp1d0f5r4p70uffitusc83epsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
